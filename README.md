@@ -1,6 +1,6 @@
 # Project-Documentation-Database-SQL-Analysis
 
-# 📁 Project Documentation Database — SQL Analysis
+## 📁 Project Documentation Database — SQL Analysis
 
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![SSMS](https://img.shields.io/badge/SSMS-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
@@ -146,8 +146,8 @@ ORDER BY pdc.total_docs DESC;
 ## 👤 Author
 
 *CHISOM PRECIOUS**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [(https://www.linkedin.com/in/chisom-precious-8685b4282)
+- GitHub: [https://github.com/chisomdataanalyst301/chisomdataanalyst301)
+- LinkedIn: [https://www.linkedin.com/in/chisom-precious-8685b4282)
 
 
 ## 📅 Date
