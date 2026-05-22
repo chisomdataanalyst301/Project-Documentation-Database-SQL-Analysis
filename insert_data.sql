@@ -2,7 +2,7 @@
 -- FILE: insert_data.sql
 -- PROJECT: Project Documentation Database
 -- DATABASE: Microsoft SQL Server
--- AUTHOR: Your Name
+-- AUTHOR: CHISOM PRECIOUS
 -- DATE: May 2026
 -- DESCRIPTION: Inserts 10 rows into each of
 --              the 5 tables. Run AFTER
