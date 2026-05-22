@@ -145,7 +145,7 @@ ORDER BY pdc.total_docs DESC;
 
 ## 👤 Author
 
-*CHISOM PRECIOUS**
+*CHISOM PRECIOUS*
 - GitHub: [https://github.com/chisomdataanalyst301/chisomdataanalyst301)
 - LinkedIn: [https://www.linkedin.com/in/chisom-precious-8685b4282)
 
