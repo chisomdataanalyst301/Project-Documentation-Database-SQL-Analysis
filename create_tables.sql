@@ -2,7 +2,7 @@
 -- FILE: create_tables.sql
 -- PROJECT: Project Documentation Database
 -- DATABASE: Microsoft SQL Server
--- AUTHOR: Your Name
+-- AUTHOR: CHISOM PRECIOUS
 -- DATE: May 2026
 -- DESCRIPTION: Creates all 5 tables for the
 --              project documentation system
